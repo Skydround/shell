@@ -17,7 +17,8 @@ Aby ikony wyświetlały się poprawnie, musisz zainstalować **Hack Nerd Font**:
    chsh -s $(which zsh)
 
 
-   Najważniejsze Skróty i Aliasy
+
+## Najważniejsze Skróty i Aliasy
 Nawigacja i Historia
 
     CTRL + R: Przeszukiwanie historii komend przez fzf.
