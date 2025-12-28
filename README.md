@@ -42,3 +42,9 @@ Systemowe
     zshconfig: Szybka edycja ustawień terminala.
 
     pp_json: Ładne formatowanie JSON-a w konsoli.
+
+
+
+Hack Font w VSC (terminal WSLowy)
+
+   mkdir -p ~/.local/share/fonts && curl -L -o /tmp/hack.zip https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-ttf.zip && unzip -o /tmp/hack.zip -d ~/.local/share/fonts && fc-cache -fv
